@@ -7,9 +7,17 @@ A curated list about resources on spatial finance.
 - [Report: State and Trends of Spatial Finance](https://www.cgfi.ac.uk/2021/07/report-state-and-trends-of-spatial-finance/)
 - [Spatial Finance:Challenges and Opportunities in a Changing World](https://openknowledge.worldbank.org/handle/10986/34894)
 
+# Scientific Papers 
+
 ## Datasets 
 - [A global inventory of photovoltaic solar energy generating units](https://www.cgfi.ac.uk/2021/11/a-global-inventory-of-photovoltaic-solar-energy-generating-units/) 
 - [Global Database of Cement Production Assets](https://www.cgfi.ac.uk/spatial-finance-initiative/geoasset-project/geoasset-databases/)
 - [Asset-level Transition Risk in the Global Coal, Oil, and Gas Supply Chains](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 
+# Projects 
+[KfW Protected Areas Database](https://openkfw.github.io/mapme.protectedareas/index.html) - Routines and datasources that we are using to analyze our protected areas portfolio with open data and free and open source software tecnologies
+
 ## Organizations and Companies 
+https://mapme-initiative.org/
+https://carbonmapper.org/
+https://carbonplan.org/ 
